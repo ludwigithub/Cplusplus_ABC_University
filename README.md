@@ -13,9 +13,6 @@ The starter code provided a console program that used a menu to enable testing f
 <p><b>Binary Search Tree</b> - For this assignment, the information provided was extracted from a municipal government data feed containing bids submitted for the auction of properties. Two csv files were provided (a larger set of 12,023 bids and a smaller set of 76 bids). We were tasked with exploring linked lists and implementing a singly linked list to hold a collection of bids loaded from a CSV file.<br>
 The starter code provided a console program that used a menu to enable testing for the hash table logic. We completed the empty methods representing the programming interface used to interact with a binary search tree. Using Visual Studio/C++ project we needed to define structures for tree nodes and housekeeping variables. Also, implement code to insert and remove a bid from a tree, display all bids, and search the tree for a bid. The comments were very helpful in inserting the code. The remove function was not included so added it to the code following the resource video.
 </p>
+<b>How has your work on this project expanded your approach to designing software and developing programs and evolved the way you write programs that are maintainable, readable, and adaptable??</b>
+<p>In my initial evaluation of the data structure to apply to the ABC University I thought that a vector data structure would be the simplest application for the functionality that they needed. As I began to work on the code I realized that the tree structure was needed to address the functions needed by the University. It was a good lesson in seeing how each data structure can be applied to its achieve the most effective and effiecient proccessing possible. As with all development it should continue to be maintainable, readable and adaptable.</p>
 
-
-<b>How has your work on this project expanded your approach to designing software and developing programs?</b>
-<p></p>
-<b>How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?</b>
-<p></p>
